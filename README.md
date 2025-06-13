@@ -1,4 +1,4 @@
-# BTL_PPE Dectection
+# BTL_PPE Detection
 # APD Detection 2 > 2025-05-29 3:52pm
 https://universe.roboflow.com/huyen-a3fl1/apd-detection-2-iy8rr-pd6ib
 
