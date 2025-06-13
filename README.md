@@ -6,6 +6,9 @@ Provided by a Roboflow user
 License: Public Domain
 
 EX
+nc: 4
+names: ['Boots','Helmet','Human','Vest']
+
 ![image](https://github.com/user-attachments/assets/195bb671-8b63-4286-a88a-6f1ea9f47673)
 
 ![image](https://github.com/user-attachments/assets/92c82acd-c6dd-4354-9198-c24e7accd121)
