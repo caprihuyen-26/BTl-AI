@@ -1,4 +1,4 @@
-yolo12m.pt
+yolo12m.pt:
 https://drive.google.com/file/d/15mQTX67QQUGq5xgz1yKMl75uMXDugDoa/view?usp=sharing
 # BTL_PPE Detection
 # APD Detection 2 > 2025-05-29 3:52pm
@@ -11,7 +11,7 @@ EX
 nc: 4
 names: ['Boots','Helmet','Human','Vest']
 
-DEMO
+DEMO:
 input
 https://github.com/user-attachments/assets/d6cb0dba-4a1d-4f6d-b3ef-5bd8dcdc9080
 
