@@ -9,12 +9,12 @@ EX
 nc: 4
 names: ['Boots','Helmet','Human','Vest']
 
-
+DEMO
+input
 https://github.com/user-attachments/assets/d6cb0dba-4a1d-4f6d-b3ef-5bd8dcdc9080
 
-
-
-https://github.com/user-attachments/assets/7e0ce137-0818-4a9f-af1f-eaa6df52ce7a
+ouput
+https://drive.google.com/file/d/1BYR5lrjP3KSA5eYQewkVpurILN9hSaRO/view?usp=sharing
 
 
 README.roboflow.txt
